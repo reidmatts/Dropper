@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Isometric Dropper Block Top Face -->
+    <path
+        android:fillColor="#334155"
+        android:pathData="M54,23 L80,37 L54,51 L28,37 Z" />
+
+    <!-- Isometric Dropper Hopper Cavity on Top -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M54,28 L71,37 L54,46 L37,37 Z" />
+
+    <!-- Isometric Dropper Block Left Face -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M28,37 L54,51 L54,83 L28,69 Z" />
+
+    <!-- Isometric Dropper Block Right Face -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M54,51 L80,37 L80,69 L54,83 Z" />
+
+    <!-- Outer Block Rim Highlight -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,23 L80,37 L80,69 L54,83 L28,69 L28,37 Z"
+        android:strokeWidth="2.2"
+        android:strokeColor="#34D399" />
+
+    <!-- Glowing Emerald Dropper Arrow Dropping Into the Block -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M48,20 H60 V36 H67 L54,49 L41,36 H48 Z" />
+
+    <!-- Bright Mint Highlight on Dropper Arrow -->
+    <path
+        android:fillColor="#6EE7B7"
+        android:pathData="M50,22 H58 V36 H63 L54,45 L45,36 H50 Z" />
+
+    <!-- Front Dispenser/Dropper Output Slot Indicator -->
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M62,59 L72,53.5 L72,63.5 L62,69 Z" />
+
+    <!-- Pixel Sparkle Accents -->
+    <path
+        android:fillColor="#A7F3D0"
+        android:pathData="M36,53 h4 v4 h-4 z" />
+    <path
+        android:fillColor="#5EEAD4"
+        android:pathData="M42,61 h4 v4 h-4 z" />
+</vector>

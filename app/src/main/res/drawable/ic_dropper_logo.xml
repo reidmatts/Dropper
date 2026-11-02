@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="32dp"
+    android:height="32dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Rounded Hexagon Base -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M54,10 L90,30 L90,78 L54,98 L18,78 L18,30 Z" />
+
+    <!-- Isometric Top Face -->
+    <path
+        android:fillColor="#334155"
+        android:pathData="M54,18 L84,35 L54,52 L24,35 Z" />
+
+    <!-- Isometric Left Face -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M24,35 L54,52 L54,88 L24,71 Z" />
+
+    <!-- Isometric Right Face -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M54,52 L84,35 L84,71 L54,88 Z" />
+
+    <!-- Emerald Border -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,18 L84,35 L84,71 L54,88 L24,71 L24,35 Z"
+        android:strokeWidth="4"
+        android:strokeColor="#10B981" />
+
+    <!-- Glowing Dropper Arrow -->
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M46,14 H62 V35 H71 L54,52 L37,35 H46 Z" />
+
+    <!-- Output Portal Core -->
+    <path
+        android:fillColor="#6EE7B7"
+        android:pathData="M62,60 L75,53 L75,66 L62,73 Z" />
+</vector>

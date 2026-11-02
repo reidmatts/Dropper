@@ -1,0 +1,30 @@
+*.iml
+.gradle
+/local.properties
+local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/.idea/deploymentTargetDropDown.xml
+/.idea/render.experimental.xml
+.DS_Store
+Thumbs.db
+/build
+/app/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Signing keys and secrets (never commit to public repos)
+*.jks
+*.keystore
+keystore.properties
+signing.properties
+
+# Unrelated personal documents
+*.docx
+*.pdf
+Cadaoas_ApplicationLetter.docx
