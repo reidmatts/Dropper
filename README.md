@@ -10,7 +10,7 @@
 - **Dynamic Version Support:** Automatically fetches up-to-date Minecraft versions (including the latest releases) and supports Fabric, Forge, NeoForge, and Quilt loaders.
 - **Smart Dependency Resolution:** Automatically detects required dependencies and lets you install everything in a single tap.
 - **Direct & SAF Storage Support:**
-  - **Auto-Discovery:** Detects standard launcher folders (`PojavLauncher`, `ZalithLauncher`, and `.minecraft/mods`).
+  - **Auto-Discovery:** Detects standard launcher folders (`Amethyst`, `ZalithLauncher`).
   - **Storage Access Framework (SAF):** Pick any custom folder on Android 11+ using the system document picker.
 - **Local Mod Manager:**
   - Toggle individual mods on/off (`.jar` ↔ `.jar.disabled`) without deleting them.
